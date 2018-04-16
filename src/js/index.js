@@ -1,0 +1,1 @@
+import less from '../less/common.less'
